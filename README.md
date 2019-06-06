@@ -18,6 +18,8 @@ A curated repository for blockchain resources
 ## Books
 
 ## Podcast
+- [Hashpower](http://investorfieldguide.com/hashpower/)
+- [Unchained podcast](http://unchainedpodcast.co/)
 
 ## Newsletters
 
