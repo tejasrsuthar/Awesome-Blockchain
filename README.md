@@ -13,6 +13,7 @@ A curated repository for blockchain resources
 - [Blockchain Unleashed](https://www.ibm.com/blogs/blockchain/)
 
 ## Courses
+- [Blockchain & Bitcoin fundamentals](https://www.udemy.com/blockchain-and-bitcoin-fundamentals/)
 - [PG Certification in Blockchain Technology](https://www.upgrad.com/blockchain-technology/)
 
 ## Books
