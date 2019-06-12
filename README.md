@@ -31,7 +31,7 @@ A curated repository for blockchain resources
 - [Unchained podcast](http://unchainedpodcast.co/)
 
 ## Newsletters
-
+- [Coindesk Newsletter archive](https://www.coindesk.com/newsletters)
 ## News
 
 ## Videos
