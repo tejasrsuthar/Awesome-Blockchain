@@ -14,6 +14,7 @@ A curated repository for blockchain resources
 - [Beyond the bitcoin bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html)
 - [Making sense cryptoeconomics](https://www.coindesk.com/making-sense-cryptoeconomics/)
 - [Blockchain Guide](https://www.wired.com/story/guide-blockchain/)
+- [Blockchain Projects 7 Mistakes to avoid](https://medium.com/letknownews/blockchain-projects-7-mistakes-to-avoid-b2afafa2523f)
 
 ## Blogs
 - [Coindesk](http://coindesk.com/)
