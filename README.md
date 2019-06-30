@@ -14,6 +14,7 @@ A curated repository for blockchain resources
 - [Beyond the bitcoin bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html)
 - [Making sense cryptoeconomics](https://www.coindesk.com/making-sense-cryptoeconomics/)
 - [Blockchain Guide](https://www.wired.com/story/guide-blockchain/)
+- [Ethereum Dapp with ethersjs and ipfs using angular material and ngrx](https://medium.com/better-programming/ethereum-dapp-with-ethers-js-and-ipfs-using-angular-angular-material-and-ngrx-part-ii-3ad292a1dc16)
 - [Hyperledger Fabric By example Series ](https://medium.com/coinmonks/hyperledger-fabric-by-example-part-1-758547e9fb04)
   - [Part-1](https://medium.com/coinmonks/hyperledger-fabric-by-example-part-1-758547e9fb04)
   - [Part-2](https://medium.com/@johntucker_48673/hyperledger-fabric-by-example-part-2-57242add8409)
@@ -21,6 +22,7 @@ A curated repository for blockchain resources
   - [Part-4](https://medium.com/coinmonks/hyperledger-fabric-by-example-part-4-f6b2e9e35842)
   - [Part-5](https://medium.com/coinmonks/hyperledger-fabric-by-example-part-5-67b8185078f2)
   - [Part-6](https://medium.com/coinmonks/hyperledger-fabric-by-example-part-6-591d89158940)
+
   
   
 
