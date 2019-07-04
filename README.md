@@ -15,6 +15,7 @@ A curated repository for blockchain resources
 - [Making sense cryptoeconomics](https://www.coindesk.com/making-sense-cryptoeconomics/)
 - [Blockchain Guide](https://www.wired.com/story/guide-blockchain/)
 - [Blockchain Projects 7 Mistakes to avoid](https://medium.com/letknownews/blockchain-projects-7-mistakes-to-avoid-b2afafa2523f)
+- [Ethereum Dapp with ethersjs and ipfs using angular material and ngrx](https://medium.com/better-programming/ethereum-dapp-with-ethers-js-and-ipfs-using-angular-angular-material-and-ngrx-part-ii-3ad292a1dc16)
 - [Hyperledger Fabric By example Series ](https://medium.com/coinmonks/hyperledger-fabric-by-example-part-1-758547e9fb04)
   - [Part-1](https://medium.com/coinmonks/hyperledger-fabric-by-example-part-1-758547e9fb04)
   - [Part-2](https://medium.com/@johntucker_48673/hyperledger-fabric-by-example-part-2-57242add8409)
@@ -22,6 +23,7 @@ A curated repository for blockchain resources
   - [Part-4](https://medium.com/coinmonks/hyperledger-fabric-by-example-part-4-f6b2e9e35842)
   - [Part-5](https://medium.com/coinmonks/hyperledger-fabric-by-example-part-5-67b8185078f2)
   - [Part-6](https://medium.com/coinmonks/hyperledger-fabric-by-example-part-6-591d89158940)
+
   
 ## Blogs
 - [Coindesk](http://coindesk.com/)
